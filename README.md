@@ -25,5 +25,5 @@ python process_data.py
 you can change ```en_zh_train.sh``` to test and export model
 
 
-There is an [demo](ai.midday.me)
+There is an [demo](http://ai.midday.me)
 
